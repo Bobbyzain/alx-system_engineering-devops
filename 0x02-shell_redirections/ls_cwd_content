@@ -1,0 +1,37 @@
+total 904
+drwxr-xr-x 3 root root   4096 Mar  5 04:39 .
+drwxr-xr-x 7 root root    183 Mar  4 00:10 ..
+-rwxr--r-- 1 root root     32 Feb 13 10:01 0-hello_world
+-rwxr--r-- 1 root root     56 Mar  3 23:59 100-empty_casks
+-rwxr--r-- 1 root root    107 Mar  4 01:04 101-gifs
+-rwxr--r-- 1 root root     43 Mar  4 01:58 102-acrostic
+-rw-r--r-- 1 root root  12288 Mar  4 01:39 .102-acrostic.swp
+-rwxr--r-- 1 root root    114 Mar  4 12:33 103-the_biggest_fan
+-rw-r--r-- 1 root root  12288 Mar  4 11:37 .103-the_biggest_fan.swo
+-rw-r--r-- 1 root root  12288 Mar  4 03:02 .103-the_biggest_fan.swp
+-rwxr--r-- 1 root root     46 Feb 15 20:33 10-no_more_js
+-rwxr--r-- 1 root root     45 Feb 15 20:50 11-directories
+-rwxr--r-- 1 root root     26 Feb 15 20:54 12-newest_files
+-rwxr--r-- 1 root root     27 Feb 15 20:58 13-unique
+-rwxr--r-- 1 root root     20 Feb 14 11:06 1-confused_smiley
+-rwxr--r-- 1 root root     16 Mar  4 22:20 21-reverse
+-rwxr--r-- 1 root root     28 Feb 13 20:22 2-hellofile
+-rwxr--r-- 1 root root     39 Feb 14 11:12 3-twofiles
+-rwxr--r-- 1 root root     29 Feb 14 11:18 4-lastlines
+-rwxr--r-- 1 root root     29 Feb 15 01:30 5-firstlines
+-rwxr-xr-x 1 root root     35 Feb 15 02:00 6-third_line
+-rwxr--r-- 1 root root     83 Mar  5 04:11 7-file
+-rwxr--r-- 1 root root     36 Mar  5 04:39 8-cwd_state
+-rwxr--r-- 1 root root     47 Mar  4 22:38 9-duplicate_last_line
+-rw-r--r-- 1 root root    384 Mar  4 01:29 An\ Acrostic
+-rw-r--r-- 1 root root     12 Mar  5 04:01 \*\\'"Best School"'\\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root     12 Mar  5 04:11 \\*\\\\\Best School\\*$\\?\\*\\*\\*\\*\\*:)
+-rw-r--r-- 1 root root      0 Mar  4 00:13 happiness.gif
+-rw-r--r-- 1 root root      0 Mar  4 00:13 hatrd.gif
+-rw-r--r-- 1 root root    857 Mar  4 22:39 iacta
+-rw-r--r-- 1 root root      0 Mar  4 00:13 lov.gif
+-rw-r--r-- 1 root root      0 Mar  5 04:39 ls_cwd_content
+-rw-r--r-- 1 root root 782913 Mar  8  2022 nasa_19950801.tsv
+-rw-r--r-- 1 root root     70 Feb 13 09:53 README.md
+-rw-r--r-- 1 root root      0 Mar  3 22:49 test
+drwxr-xr-x 3 root root    106 Mar  4 00:24 testing_gifd
